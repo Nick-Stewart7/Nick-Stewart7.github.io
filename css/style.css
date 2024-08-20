@@ -269,7 +269,7 @@ html{
 /* || PROJECTS SECTION */
 
 .section__projects{
-    height: 130vh;
+    height: 100vh;
     background-color: var(--HEADER-HOVER-BLUE);
 }
 
@@ -514,7 +514,9 @@ html{
     padding: 100px 20vw;
     background-color: #FFFFFF;
     color: var(--clr-dark);
+    font-size: 2rem;
 }
+
 .custom-shape-divider-top-1636338522 {
     position: absolute;
     top: 0;
@@ -565,7 +567,7 @@ html{
     min-height: 400px;
     padding: 100px 20vw;
     background: linear-gradient(135deg, #2b3185, #352c6d, #211650);
-
+    font-size: 2rem;
     color: var(--clr-icyWhite);
 }
 
@@ -679,6 +681,7 @@ html{
     padding: 100px 20vw;
     background: linear-gradient(145deg, #211650, #352c6d, #2b3185 );
     color: var(--clr-icyWhite);
+    font-size: 2rem;
 
 }
 .custom-shape-divider-bottom-1636338284 {
